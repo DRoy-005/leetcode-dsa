@@ -16,7 +16,8 @@ consistently and prepare for technical interviews.
 | Binary | 5 |
 | Binary Search | 2 |
 | Dynamic Programming | 5 |
-| **Total** | **20** |
+| Strings | 2 |
+| **Total** | **22** |
 
 ---
 
@@ -67,6 +68,13 @@ consistently and prepare for technical interviews.
 | 1143 | Longest Common Subsequence | Medium |
 
 ---
+
+## Strings
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 3 | Longest Substring Without Repeating Characters | Medium |
+| 424 | Longest Repeating Character Replacement | Medium |
 
 ## Language
 
