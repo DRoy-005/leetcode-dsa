@@ -16,8 +16,8 @@ consistently and prepare for technical interviews.
 | Binary | 5 |
 | Binary Search | 2 |
 | Dynamic Programming | 5 |
-| Strings | 2 |
-| **Total** | **22** |
+| Strings | 4 |
+| **Total** | **24** |
 
 ---
 
@@ -74,6 +74,8 @@ consistently and prepare for technical interviews.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | Longest Substring Without Repeating Characters | Medium |
+| 76 | Minimum Window Substring | Hard |
+| 242 | Valid Anagram | Easy |
 | 424 | Longest Repeating Character Replacement | Medium |
 
 ## Language
