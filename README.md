@@ -16,8 +16,10 @@ consistently and prepare for technical interviews.
 | Binary | 5 |
 | Binary Search | 2 |
 | Dynamic Programming | 5 |
-| Strings | 6 |
-| **Total** | **26** |
+| Strings | 7 |
+| Backtracking | 1 |
+| Linked List | 1 |
+| **Total** | **29** |
 
 ---
 
@@ -79,6 +81,24 @@ consistently and prepare for technical interviews.
 | 76 | Minimum Window Substring | Hard |
 | 242 | Valid Anagram | Easy |
 | 424 | Longest Repeating Character Replacement | Medium |
+
+---
+
+## Backtracking
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 22 | Generate Parentheses | Medium |
+
+---
+
+## Linked List
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 206 | Reverse Linked List | Easy |
+
+---
 
 ## Language
 
