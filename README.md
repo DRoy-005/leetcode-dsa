@@ -1,10 +1,11 @@
 # LeetCode DSA
 
-My LeetCode problem-solving journey, organized by DSA topics and
-problem-solving patterns.
+My LeetCode problem-solving journey, organized by DSA topics,
+patterns, and programming language.
 
-I am using this repository to practice Data Structures and Algorithms
-consistently and prepare for technical interviews.
+This repository contains my solutions while preparing for
+technical interviews and improving my Data Structures and
+Algorithms skills.
 
 ---
 
@@ -12,16 +13,23 @@ consistently and prepare for technical interviews.
 
 | Category | Solved |
 |----------|--------|
-| Arrays | 8 |
+| Arrays | 10 |
 | Binary | 5 |
 | Binary Search | 2 |
 | Dynamic Programming | 5 |
-| Strings | 7 |
+| Strings | 9 |
 | Backtracking | 1 |
 | Linked List | 1 |
-| **Total** | **29** |
+| Hashing | 1 |
+| Greedy | 1 |
+| Stack | 1 |
+| Math | 1 |
+| SQL | 1 |
+| **Total** | **38** |
 
 ---
+
+# Java DSA
 
 ## Arrays
 
@@ -30,11 +38,13 @@ consistently and prepare for technical interviews.
 | 1 | Two Sum | Easy |
 | 11 | Container With Most Water | Medium |
 | 15 | 3Sum | Medium |
+| 26 | Remove Duplicates from Sorted Array | Easy |
 | 53 | Maximum Subarray | Medium |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 152 | Maximum Product Subarray | Medium |
 | 217 | Contains Duplicate | Easy |
 | 238 | Product of Array Except Self | Medium |
+| 283 | Move Zeroes | Easy |
 
 ---
 
@@ -76,10 +86,13 @@ consistently and prepare for technical interviews.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | Longest Substring Without Repeating Characters | Medium |
+| 14 | Longest Common Prefix | Easy |
 | 20 | Valid Parentheses | Easy |
 | 49 | Group Anagrams | Medium |
 | 76 | Minimum Window Substring | Hard |
+| 125 | Valid Palindrome | Easy |
 | 242 | Valid Anagram | Easy |
+| 3498 | Reverse Degree of a String | Easy |
 | 424 | Longest Repeating Character Replacement | Medium |
 
 ---
@@ -100,16 +113,59 @@ consistently and prepare for technical interviews.
 
 ---
 
-## Language
+## Hashing
 
-**Java**
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 3005 | Count Elements With Maximum Frequency | Easy |
 
 ---
 
-## Goal
+## Greedy
 
-- [x] First 20 problems
-- [ ] 30 problems
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 678 | Valid Parenthesis String | Medium |
+
+---
+
+## Stack
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 32 | Longest Valid Parentheses | Hard |
+
+---
+
+## Math
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 9 | Palindrome Number | Easy |
+
+---
+
+# SQL
+
+## SQL Problems
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2356 | Number of Unique Subjects Taught by Each Teacher | Easy |
+
+---
+
+## Language
+
+- Java — DSA solutions
+- SQL — Database problems
+
+---
+
+## Goals
+
+- [x] 20 problems
+- [x] 30 problems
 - [ ] 50 problems
 - [ ] 75 problems
 - [ ] 100 problems
