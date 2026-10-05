@@ -13,19 +13,19 @@ Algorithms skills.
 
 | Category | Solved |
 |----------|--------|
-| Arrays | 10 |
+| Arrays | 11 |
 | Binary | 5 |
 | Binary Search | 2 |
-| Dynamic Programming | 5 |
+| Dynamic Programming | 8 |
 | Strings | 9 |
 | Backtracking | 1 |
 | Linked List | 1 |
 | Hashing | 1 |
-| Greedy | 1 |
-| Stack | 1 |
+| Greedy | 2 |
+| Stack | 2 |
 | Math | 1 |
 | SQL | 1 |
-| **Total** | **38** |
+| **Total** | **44** |
 
 ---
 
@@ -38,13 +38,14 @@ Algorithms skills.
 | 1 | Two Sum | Easy |
 | 11 | Container With Most Water | Medium |
 | 15 | 3Sum | Medium |
-| 26 | Remove Duplicates from Sorted Array | Easy |
 | 53 | Maximum Subarray | Medium |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 152 | Maximum Product Subarray | Medium |
+| 189 | Rotate Array | Medium |
 | 217 | Contains Duplicate | Easy |
 | 238 | Product of Array Except Self | Medium |
 | 283 | Move Zeroes | Easy |
+| 26 | Remove Duplicates from Sorted Array | Easy |
 
 ---
 
@@ -78,6 +79,9 @@ Algorithms skills.
 | 300 | Longest Increasing Subsequence | Medium |
 | 322 | Coin Change | Medium |
 | 1143 | Longest Common Subsequence | Medium |
+| 4071 | Minimum Rotations to Dial a Number II | Medium |
+| 4072 | Maximum Alternating Subarray Sum With One Deletion | Medium |
+| 4073 | Count Good Strings | Hard |
 
 ---
 
@@ -92,8 +96,8 @@ Algorithms skills.
 | 76 | Minimum Window Substring | Hard |
 | 125 | Valid Palindrome | Easy |
 | 242 | Valid Anagram | Easy |
-| 3498 | Reverse Degree of a String | Easy |
 | 424 | Longest Repeating Character Replacement | Medium |
+| 3498 | Reverse Degree of a String | Easy |
 
 ---
 
@@ -126,6 +130,7 @@ Algorithms skills.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 678 | Valid Parenthesis String | Medium |
+| 4070 | Minimum Rotations to Dial a Number I | Easy |
 
 ---
 
@@ -134,6 +139,7 @@ Algorithms skills.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 32 | Longest Valid Parentheses | Hard |
+| 856 | Score of Parentheses | Medium |
 
 ---
 
@@ -166,6 +172,7 @@ Algorithms skills.
 
 - [x] 20 problems
 - [x] 30 problems
+- [x] 40 problems
 - [ ] 50 problems
 - [ ] 75 problems
 - [ ] 100 problems
