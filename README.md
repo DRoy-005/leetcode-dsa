@@ -1,31 +1,28 @@
 # LeetCode DSA
 
-My LeetCode problem-solving journey, organized by DSA topics,
-patterns, and programming language.
+My LeetCode problem-solving journey, organized by DSA topics, patterns, and programming language.
 
-This repository contains my solutions while preparing for
-technical interviews and improving my Data Structures and
-Algorithms skills.
+This repository contains my solutions while preparing for technical interviews and improving my Data Structures and Algorithms skills.
 
 ---
 
 ## Progress
 
 | Category | Solved |
-|----------|--------|
+|---|---:|
 | Arrays | 11 |
 | Binary | 5 |
 | Binary Search | 2 |
 | Dynamic Programming | 8 |
 | Strings | 9 |
-| Backtracking | 1 |
+| Backtracking | 2 |
 | Linked List | 1 |
 | Hashing | 1 |
-| Greedy | 2 |
+| Greedy | 3 |
 | Stack | 2 |
 | Math | 1 |
 | SQL | 1 |
-| **Total** | **44** |
+| **Total** | **46** |
 
 ---
 
@@ -34,10 +31,11 @@ Algorithms skills.
 ## Arrays
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 1 | Two Sum | Easy |
 | 11 | Container With Most Water | Medium |
 | 15 | 3Sum | Medium |
+| 26 | Remove Duplicates from Sorted Array | Easy |
 | 53 | Maximum Subarray | Medium |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 152 | Maximum Product Subarray | Medium |
@@ -45,14 +43,13 @@ Algorithms skills.
 | 217 | Contains Duplicate | Easy |
 | 238 | Product of Array Except Self | Medium |
 | 283 | Move Zeroes | Easy |
-| 26 | Remove Duplicates from Sorted Array | Easy |
 
 ---
 
 ## Binary
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 190 | Reverse Bits | Easy |
 | 191 | Number of 1 Bits | Easy |
 | 268 | Missing Number | Easy |
@@ -64,7 +61,7 @@ Algorithms skills.
 ## Binary Search
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 33 | Search in Rotated Sorted Array | Medium |
 | 153 | Find Minimum in Rotated Sorted Array | Medium |
 
@@ -73,7 +70,7 @@ Algorithms skills.
 ## Dynamic Programming
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 70 | Climbing Stairs | Easy |
 | 139 | Word Break | Medium |
 | 300 | Longest Increasing Subsequence | Medium |
@@ -88,7 +85,7 @@ Algorithms skills.
 ## Strings
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 3 | Longest Substring Without Repeating Characters | Medium |
 | 14 | Longest Common Prefix | Easy |
 | 20 | Valid Parentheses | Easy |
@@ -104,15 +101,16 @@ Algorithms skills.
 ## Backtracking
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 22 | Generate Parentheses | Medium |
+| 301 | Remove Invalid Parentheses | Hard |
 
 ---
 
 ## Linked List
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 206 | Reverse Linked List | Easy |
 
 ---
@@ -120,7 +118,7 @@ Algorithms skills.
 ## Hashing
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 3005 | Count Elements With Maximum Frequency | Easy |
 
 ---
@@ -128,8 +126,9 @@ Algorithms skills.
 ## Greedy
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 678 | Valid Parenthesis String | Medium |
+| 921 | Minimum Add to Make Parentheses Valid | Medium |
 | 4070 | Minimum Rotations to Dial a Number I | Easy |
 
 ---
@@ -137,7 +136,7 @@ Algorithms skills.
 ## Stack
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 32 | Longest Valid Parentheses | Hard |
 | 856 | Score of Parentheses | Medium |
 
@@ -146,7 +145,7 @@ Algorithms skills.
 ## Math
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 9 | Palindrome Number | Easy |
 
 ---
@@ -156,15 +155,15 @@ Algorithms skills.
 ## SQL Problems
 
 | # | Problem | Difficulty |
-|---|---------|------------|
+|---|---|---|
 | 2356 | Number of Unique Subjects Taught by Each Teacher | Easy |
 
 ---
 
-## Language
+## Languages
 
-- Java — DSA solutions
-- SQL — Database problems
+- **Java** — DSA solutions
+- **SQL** — Database problems
 
 ---
 
@@ -177,3 +176,4 @@ Algorithms skills.
 - [ ] 75 problems
 - [ ] 100 problems
 - [ ] 150+ problems
+
